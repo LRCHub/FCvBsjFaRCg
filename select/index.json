@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Jinmenusagi - うそさ (Official Video)",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2025-12-14T06:07:27.622077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ニルバーナ feat. Jinmenusagi",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_ニルバーナ_feat._Jinmenusagi_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GRAVITY (ft. Paranel & Jinmenusagi)",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_GRAVITY_(ft._Paranel_&_Jinmenusagi)_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Up Feat. Jinmenusagi",
+      "artist": "EVO+",
+      "has_synced": true,
+      "path": "select/03_Get_Up_Feat._Jinmenusagi_EVO+.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gravity (feat. Paranel & Jinmenusagi)",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/04_Gravity_(feat._Paranel_&_Jinmenusagi)_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WA Interlude feat. 鼓動, Jinmenusagi",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/05_WA_Interlude_feat._鼓動,_Jinmenusagi_AI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WHAT I WANT feat. Jinmenusagi",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/06_WHAT_I_WANT_feat._Jinmenusagi_AI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sky Lady (feat. Jinmenusagi, Itto & Kiki vivi lily)",
+      "artist": "Sweet William",
+      "has_synced": true,
+      "path": "select/07_Sky_Lady_(feat._Jinmenusagi,_Itto_&_Kiki_vivi_lily)_Sweet_William.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mitabi Futeishokusya (feat. Jinmenusagi & ID) [Remix]",
+      "artist": "Seeda",
+      "has_synced": true,
+      "path": "select/08_Mitabi_Futeishokusya_(feat._Jinmenusagi_&_ID)_[Remix]_Seeda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Continue..?(feat. Jinmenusagi)",
+      "artist": "Neighbors Complain",
+      "has_synced": true,
+      "path": "select/09_Continue.._(feat._Jinmenusagi)_Neighbors_Complain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix)",
+      "artist": "Hyperjuice",
+      "has_synced": true,
+      "path": "select/10_City_Lights_feat._EVO+,_Jinmenusagi_(Pa's_Lam_System_Remix)_Hyperjuice.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Dream feat.Jinmenusagi",
+      "artist": "Mega Shinnosuke",
+      "has_synced": true,
+      "path": "select/11_Sweet_Dream_feat.Jinmenusagi_Mega_Shinnosuke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "City Lights feat. EVO+, Jinmenusagi",
+      "artist": "Hyperjuice",
+      "has_synced": true,
+      "path": "select/12_City_Lights_feat._EVO+,_Jinmenusagi_Hyperjuice.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monster Riot feat. Jinmenusagi",
+      "artist": "Monster Rion",
+      "has_synced": true,
+      "path": "select/13_Monster_Riot_feat._Jinmenusagi_Monster_Rion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get Up feat.Jinmenusagi",
+      "artist": "EVO+",
+      "has_synced": true,
+      "path": "select/14_Get_Up_feat.Jinmenusagi_EVO+.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "GRAVITY (feat. Paranel & Jinmenusagi)",
+      "artist": "Daoko, Paranel, Jinmenusagi",
+      "has_synced": true,
+      "path": "select/15_GRAVITY_(feat._Paranel_&_Jinmenusagi)_Daoko,_Paranel,_Jinmenusagi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ニルバーナ - Nirvana (feat. Jinmenusagi)",
+      "artist": "Daoko",
+      "has_synced": true,
+      "path": "select/16_ニルバーナ_-_Nirvana_(feat._Jinmenusagi)_Daoko.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sign (Feat. Jinmenusagi) (Japanese ver.)",
+      "artist": "Eyedi",
+      "has_synced": true,
+      "path": "select/17_Sign_(Feat._Jinmenusagi)_(Japanese_ver.)_Eyedi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "EVO+ - Get Up feat. Jinmenusagi",
+      "artist": "EVO+",
+      "has_synced": true,
+      "path": "select/18_EVO+_-_Get_Up_feat._Jinmenusagi_EVO+.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うそさ",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_うそさ_Jinmenusagi.txt"
+    }
+  ]
+}
